@@ -1,7 +1,7 @@
 # ATIS-generator
 To be used to create a basic ATIS for flight simulating communities or other such purposes
 
-The programme is one function with 65 associated sound files, if you wish to create your own voice for the function create sound clips using the script.txt and title the mp3 files as they are written in there.
+The programme is one function with 65 associated sound files, if you wish to create your own voice for the function rerecord the mp3s with the same titles. Feel free to add to the code allowing the user to select from different voices.
 
 This function requires the pydub and datetime modules
 
