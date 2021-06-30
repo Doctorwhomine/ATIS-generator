@@ -13,7 +13,7 @@ To use simply load the function with a dictionary, for example:
       "wind_dir": "248",
       "wind_speed": "7",
       "press": "2992",
-      "sky": ("CLR"),
-      "rwy": ("05"),
+      "sky": ("NCD", " "),
+      "rwy": ("05", " "),
    }
    atis_gen(information)
